@@ -1,0 +1,11 @@
+  <h1>MASHUP application LAB-3</h1>
+<body style="background-color:#A0A0A0";>
+    <h2>Google vs Facebook Statistics</h2>
+    <img src="http://chart.finance.yahoo.com/z?s=GOOG&t=12m&q=l&z=l&p=m50,m200
+" height="300" width="250">
+<p>share with your friends by clicking on this<p>
+       <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" name="twitter">Tweet</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><br>
+        Like us on Facebook
+        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Freference%2Fplugins%2Flike&amp;width=450&amp;height=80&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;send=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+        <p>All the statistics are aquired from yahoo finance and updated regularly on this site</p>
